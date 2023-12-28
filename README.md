@@ -1,13 +1,13 @@
 # Kaggle-Predictive-Analysis-Competition
-■ Description
-Predict the price of a used car. You are given a dataset on 40,000 used cars. The data describes each car based on its features and its condition.
-■ Goal
-Construct a model to predict sale price of a used car based on its features and condition and use it to generate predictions for a set of unlabeled data.
-■ Metric
-Submissions will be evaluated based on RMSE (root mean squared error) (Wikipedia). Lower the RMSE, better the model.
-■ About Data
-Here is a description of variables included in the dataset. Your goal is to predict the last variable, price.
-
+■ Description<br />
+Predict the price of a used car. You are given a dataset on 40,000 used cars. The data describes each car based on its features and its condition.<br />
+■ Goal<br />
+Construct a model to predict sale price of a used car based on its features and condition and use it to generate predictions for a set of unlabeled data.<br />
+■ Metric<br />
+Submissions will be evaluated based on RMSE (root mean squared error) (Wikipedia). Lower the RMSE, better the model.<br />
+■ About Data<br />
+Here is a description of variables included in the dataset. Your goal is to predict the last variable, price.<br />
+<br />
 id: Unique identifier
 make_name: Make of car
 model_name: Model of car
